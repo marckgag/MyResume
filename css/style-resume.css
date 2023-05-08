@@ -10,13 +10,15 @@ hr{
 }
  
 #space{
-  color: #ffffff;
+  color: #fff;
   opacity: 0.0;
+  margin:auto;
+
 }
 
 button{
 
-  color: #ff004c;
+  color: #ffcc00;
   background-color: #ffffff;
   border: 0px ;
   font-size: 0.9em;
